@@ -1,6 +1,6 @@
 # CS250
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? An easy way to think about converting user needs into the program is to simplify them similarly to pseudocode when coding. Identify clear outcomes the work backwards for the steps to get there. User stories help to lay everything out in this process making following along and visualizing each individual goal much easier.
 
-How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work? When developing I like to split the project up into different sections to outline a sort of checklist for completion. Some Agile processes I can adopt would be reflecting upon each section as I finish them, and combining that with the adaptability seen with Agile. Being okay with tinkering with my work as I progress even though it means spending more time doing so, to ensure a better product. 
 
-What does it mean to be a good team member in software development?
+What does it mean to be a good team member in software development? I believe being a good team member is done the same in software development as in any other field. Open mindedness and collaboration with your team members to collectively arrive at one common goal regardless of position is applicable everywhere regardless of the field of work. 
